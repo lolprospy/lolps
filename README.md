@@ -101,6 +101,6 @@
 <h2>Contact Us</h2>
 <p>If you have any questions about this Privacy Policy, please contact us:</p>
 <ul>
-        <li>By email: LoLProSpy@gmail.com</li>
+        <li>By email: lolprospy@gmail.com</li>
           
 </ul>                                
