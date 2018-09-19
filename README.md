@@ -101,6 +101,6 @@
 <h2>Contact Us</h2>
 <p>If you have any questions about this Privacy Policy, please contact us:</p>
 <ul>
-        <li>By email: jeffersonraylan@gmail.com</li>
+        <li>By email: LoLProSpy@gmail.com</li>
           
 </ul>                                
